@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Build Status](https://travis-ci.org/astrapi69/jobj-differ.svg?branch=develop)](https://travis-ci.org/astrapi69/jobj-differ) 
-[![Coverage Status](https://coveralls.io/repos/github/astrapi69/jobj-differ/badge.svg?branch=develop)](https://coveralls.io/github/astrapi69/jobj-differ?branch=develop) 
+[![Build Status](https://travis-ci.org/astrapi69/jobj-differ.svg?branch=master)](https://travis-ci.org/astrapi69/jobj-differ) 
+[![Coverage Status](https://coveralls.io/repos/github/astrapi69/jobj-differ/badge.svg?branch=master)](https://coveralls.io/github/astrapi69/jobj-differ?branch=master) 
 [![Open Issues](https://img.shields.io/github/issues/astrapi69/jobj-differ.svg?style=flat)](https://github.com/astrapi69/jobj-differ/issues) 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/jobj-differ/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/jobj-differ)
 [![Javadocs](http://www.javadoc.io/badge/de.alpharogroup/jobj-differ.svg)](http://www.javadoc.io/doc/de.alpharogroup/jobj-differ)
@@ -111,7 +111,7 @@ Do not hesitate to contact the jobj-differ developers with your questions, conce
 
 |**coveralls.io**|
 |     :---:      |
-|[![Coverage Status](https://coveralls.io/repos/github/astrapi69/jobj-differ/badge.svg?branch=develop)](https://coveralls.io/github/astrapi69/jobj-differ?branch=master)|
+|[![Coverage Status](https://coveralls.io/repos/github/astrapi69/jobj-differ/badge.svg?branch=master)](https://coveralls.io/github/astrapi69/jobj-differ?branch=master)|
 |Special thanks to [coveralls.io](https://coveralls.io) for providing a free code coverage for open source projects|
 |     <img width=1000/>     |
 
