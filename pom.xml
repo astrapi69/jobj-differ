@@ -11,7 +11,7 @@
 	</parent>
 
 	<artifactId>jobj-differ</artifactId>
-	<version>3-SNAPSHOT</version>
+	<version>3</version>
 	
 	<name>${project.artifactId}</name>
 
