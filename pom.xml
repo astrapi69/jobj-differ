@@ -118,7 +118,7 @@
 			<groupId>de.alpharogroup</groupId>
 			<artifactId>jobject-core</artifactId>
 		</dependency>
-
+		<!-- UNIT-TEST DEPENDENCIES -->
 		<dependency>
 			<groupId>de.alpharogroup</groupId>
 			<artifactId>test-objects</artifactId>
