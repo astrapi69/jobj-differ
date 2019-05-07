@@ -12,7 +12,7 @@
 
 	<artifactId>jobj-differ</artifactId>
 	<version>3.1-SNAPSHOT</version>
-	
+
 	<name>${project.artifactId}</name>
 
 	<description>Resolve differences in java objects</description>
@@ -24,12 +24,12 @@
 		<commons-beanutils.version>1.9.3</commons-beanutils.version>
 		<!-- JOBJ-COMPARE version -->
 		<jobj-compare.version>3.1</jobj-compare.version>
-		<!-- JOBJECT-CORE versions -->
-		<jobject-core.version>2.6.4</jobject-core.version>
+		<!-- JOBJ-CORE version -->
+		<jobj-core.version>3.1</jobj-core.version>
 		<!-- TEST-OBJECTS version -->
 		<test-objects.version>5.0.1</test-objects.version>
 		<!-- JOBJ-CONTRACT-VERIFIER version -->
-		<jobj-contract-verifier.version>3</jobj-contract-verifier.version>
+		<jobj-contract-verifier.version>3.1</jobj-contract-verifier.version>
 	</properties>
 
 	<licenses>
@@ -78,12 +78,11 @@
 				<artifactId>test-objects</artifactId>
 				<version>${test-objects.version}</version>
 			</dependency>
-
-			<!-- JOBJECT-CORE DEPENDENCY -->
+			<!-- JOBJ-CORE DEPENDENCY -->
 			<dependency>
 				<groupId>de.alpharogroup</groupId>
-				<artifactId>jobject-core</artifactId>
-				<version>${jobject-core.version}</version>
+				<artifactId>jobj-core</artifactId>
+				<version>${jobj-core.version}</version>
 			</dependency>
 			<!-- JOBJ-COMPARE DEPENDENCY -->
 			<dependency>
@@ -114,9 +113,10 @@
 			<artifactId>jobj-compare</artifactId>
 		</dependency>
 
+		<!-- JOBJ-CORE DEPENDENCY -->
 		<dependency>
 			<groupId>de.alpharogroup</groupId>
-			<artifactId>jobject-core</artifactId>
+			<artifactId>jobj-core</artifactId>
 		</dependency>
 		<!-- UNIT-TEST DEPENDENCIES -->
 		<dependency>

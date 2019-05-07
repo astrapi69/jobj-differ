@@ -4,6 +4,10 @@
 Version 3.1-SNAPSHOT
 -------------
 
+CHANGED:
+
+- replaced obsolete dependency jobject-core with the new dependency jobj-core
+
 Version 3
 -------------
 
